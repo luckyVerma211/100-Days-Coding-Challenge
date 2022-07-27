@@ -1,0 +1,7 @@
+print("*"*10)
+print("Hello Everyone!!")
+print("My name is Lucky Verma.")
+print("I am Student.")
+print("I am intrested in coding.")
+print("CS is my favourite subject.")
+print("*"*10)
