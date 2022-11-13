@@ -42,7 +42,8 @@ for ch in name.lower():
     img.append(t[ch])
 
 mixer.init()
-mixer.music.load("C:\\Users\\LUCKY\\Music\\my music\\Rim Jhim - Jubin Nautiyal.mp3")
+#eneter the file loaction of any mp3/mp4 file
+mixer.music.load("music.mp3")
 mixer.music.set_volume(0.1)
 mixer.music.play()
 
