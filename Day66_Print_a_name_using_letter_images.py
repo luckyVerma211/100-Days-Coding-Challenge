@@ -10,6 +10,7 @@ win=pygame.display.set_mode((w,500))
 
 pygame.display.set_caption("MY Name")
 t={}
+#change the image location according to your own file locations
 t['a']=pygame.image.load("E:\\Alphabets2\\A.jpg")
 t['b']=pygame.image.load("E:\\Alphabets2\\B.jpg")
 t['c']=pygame.image.load("E:\\Alphabets2\\C.jpg")
